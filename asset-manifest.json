@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://josuealmonasi.github.io/csb-d1cwo/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://josuealmonasi.github.io/csb-d1cwo/static/js/main.0fb31eed.chunk.js",
+    "main.js.map": "https://josuealmonasi.github.io/csb-d1cwo/static/js/main.0fb31eed.chunk.js.map",
+    "runtime-main.js": "https://josuealmonasi.github.io/csb-d1cwo/static/js/runtime-main.f0d7bb65.js",
+    "runtime-main.js.map": "https://josuealmonasi.github.io/csb-d1cwo/static/js/runtime-main.f0d7bb65.js.map",
+    "static/js/2.e59963d5.chunk.js": "https://josuealmonasi.github.io/csb-d1cwo/static/js/2.e59963d5.chunk.js",
+    "static/js/2.e59963d5.chunk.js.map": "https://josuealmonasi.github.io/csb-d1cwo/static/js/2.e59963d5.chunk.js.map",
+    "index.html": "https://josuealmonasi.github.io/csb-d1cwo/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://josuealmonasi.github.io/csb-d1cwo/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.e59963d5.chunk.js.LICENSE.txt": "https://josuealmonasi.github.io/csb-d1cwo/static/js/2.e59963d5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f0d7bb65.js",
+    "static/js/2.e59963d5.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.0fb31eed.chunk.js"
+  ]
+}
